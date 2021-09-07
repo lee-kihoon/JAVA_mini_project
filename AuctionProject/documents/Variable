@@ -1,0 +1,2 @@
+Product[ String name, int money, String product[] ]
+name=플레이어 이름, money=플레이어 가진 돈, product=플레이어가 낙찰받은 상품
