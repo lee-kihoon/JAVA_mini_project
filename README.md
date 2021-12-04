@@ -10,15 +10,15 @@
 - 역사적 사건에 개인이 판단하는 가격 부여 및 가치를 생성
 - 새로운 시각과 접근을 통해 인사이트(Insight) 부여
 
-## 클래스 다이어그램 (Eclipse Amateras UML)
-![스크린샷 2021-12-04 오후 12 25 31](https://user-images.githubusercontent.com/53985471/144695282-68e6f2ac-938b-4bee-8b55-8b1ae51a4824.png)
-
 ## 개발 환경
 - Windows 10 (64bit)
 - Java SE 1.8 (Java Ver.8)
 - Eclipse IDE 4.19.0 Ver
 - Lobok.jar
 - Eclipse Amateras UML
+- 
+## 클래스 다이어그램 (Eclipse Amateras UML)
+![스크린샷 2021-12-04 오후 12 25 31](https://user-images.githubusercontent.com/53985471/144695282-68e6f2ac-938b-4bee-8b55-8b1ae51a4824.png)
 
 ## 실행 결과
 - 1.요일 선택<br>
